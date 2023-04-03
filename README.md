@@ -8,32 +8,39 @@
 <hr/>
 
 >>> AREAS OF EXPERTISE
+<br> Mobile Application Development
 <br> Web Technology
-<br> Internet of Things Technology
 <br> Project Management
-<br> Data Structures
+<br> Cyber Security
 <br>
 
 <hr/>
 
 >>> TECHNICAL SKILLS 
-<br> Languages: Java, Python, C, CPP
-<br> Frontend tools: HTML5, CSS, JavaScript, Bootstrap
+<br> Languages: Java, C, CPP
+<br> Frontend tools: HTML5, CSS
 <br> Backend tools: Python-Flask, PHP
-<br> Database: MySQL, MSSQL, MongoDB, Cassandra
+<br> Database: MySQL, MSSQL
 <br> Microsoft office Tools: Excel, PowerPoint, Word
-<br> Operating System: Raspberry Pi, Windows, Ubuntu
+<br> Operating System: Raspbian OS, Windows, Ubuntu
 <br>
 
 <hr/>
 
 >>> IDEs FAMILIAR WITH
-<br> JAVA – IntelliJ IDEA, Eclipse, Netbeans
+<br> JAVA – IntelliJ IDEA, Eclipse
 <br> C++ – Code-Blocks, TurboC, Microsoft Visual C++ 
 <br> C – CodeBlocks, TurboC
-<br> Python – Jupyter notebook, Spyder
+<br> Python – Jupyter notebook, Spyder, Anaconda
 <br> Visual Studio (For Web Development)
 <br>
+
+
+
+## 🌐Socials
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujanth-sapaliga) 
+
 <!--
 
 Here are some ideas to get you started:
@@ -60,7 +67,7 @@ Here are some ideas to get you started:
 
 ## 🌐Socials
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-l-m-19baa820a/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sujanth-sapaliga) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/akash_l_m/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akash-l-m-19baa820a/)) 
 
 # 💻Tech Stack
